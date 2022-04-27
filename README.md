@@ -1,6 +1,8 @@
 ## 数据结构
 
-swagger: "2.0"
+
+   ```yaml
+   swagger: "2.0"
 info:
   title: zx-web-api
   description: |知识分享
@@ -305,3 +307,8 @@ host: localhost
         - "available"
         - "pending"
         - "sold"
+   
+   
+   
+   
+   ```
